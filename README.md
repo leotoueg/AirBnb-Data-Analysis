@@ -1,3 +1,5 @@
 # AirBnb-Data-Analysis
 Hypothesis Testing and Variable Correlation
-#Assignment in the .ipynb notebook
+#Report in the .ipynb notebook
+
+Data Visualisation and Correlation Analysis
